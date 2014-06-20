@@ -1,8 +1,6 @@
-Map of Session Attributes for Node.js Express
+# Map of Session Attributes for Node.js Express
 =============================================================
 
-
-# Map of Your Session Attributes for Node.js Express Web framework
   This session_attribute_map.js helps you to session information in form of <key, value> MAP,
   which J2EE developers are used to.
   
