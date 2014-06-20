@@ -1,6 +1,6 @@
 # Map of Session Attributes for Node.js Express
 =============================================================
-  This session_attribute_map.js helps you to session information in form of <key, value> MAP,
+  This session_attribute_map.js helps you to store session information in form of <key, value> MAP,
   which J2EE developers are used to.
   
   I am a J2EE developer. When doing web development, I am used to have session attributes to handle
